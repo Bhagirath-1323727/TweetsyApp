@@ -1,6 +1,6 @@
-package com.di
+package com.example.di
 
-import com.api.TweetsyApi
+import com.example.api.TweetsyApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

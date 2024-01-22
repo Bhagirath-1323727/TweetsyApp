@@ -1,4 +1,4 @@
-package com.api
+package com.example.api
 
 import com.example.model.TweetListItem
 import retrofit2.Response
